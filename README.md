@@ -1,2 +1,2 @@
-# dietitian
-dietitian project
+# git-book
+git-book study
