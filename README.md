@@ -1,2 +1,2 @@
 # git-book
-git-book study
+study project
